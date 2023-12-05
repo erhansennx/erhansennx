@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ERHAN</h1>
 <h3 align="center">A native mobile developer from Turkey</h3>
-<img align="right" alt="Coding" width="325" src="https://media3.giphy.com/media/IIv3NuURRxgJO/giphy.gif?cid=790b7611aa3cb6790e3186d9f210dc00c5cb8482b16b3bf1&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="Coding" width="325" src="https://media3.giphy.com/media/IIv3NuURRxgJO/giphy.gif?cid=790b7611aa3cb6790e3186d9f210dc00c5cb8482b16b3bf1&rid=giphy.gif&ct=g"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhansennx&label=Profile%20views&color=0e75b6&style=flat" alt="erhansennx" /> </p>
 
