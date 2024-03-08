@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Java.**
 
-- 📫 How to reach me **contacterhansen@gmail.com & erhanfatih33@gmail.com**
+- 📫 How to reach me **contacterhansen@gmail.com**
 
 <!--  - ⚡ Fun fact **I'm Funny.**  -->
 <br>
