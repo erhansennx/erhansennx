@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ERHAN</h1>
-<h3 align="center">A native mobile developer from Turkey</h3>
+<h3 align="center">A native mobile developer from Türkiye</h3>
 <!-- <img align="right" alt="Coding" width="325" src="https://media3.giphy.com/media/IIv3NuURRxgJO/giphy.gif?cid=790b7611aa3cb6790e3186d9f210dc00c5cb8482b16b3bf1&rid=giphy.gif&ct=g"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhansennx&label=Profile%20views&color=0e75b6&style=flat" alt="erhansennx" /> </p>
@@ -11,28 +11,76 @@
 - 📫 How to reach me **contacterhansen@gmail.com & erhanfatih33@gmail.com**
 
 <!--  - ⚡ Fun fact **I'm Funny.**  -->
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erhan-şen-567068201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erhan-şen-567068201" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erhansen?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erhanfatih33" height="30" width="40" /></a>
-<a href="https://instagram.com/erhansennx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erhansennx" height="30" width="40" /></a>
-</p>
+<div>
+    <h2 align=center> My Featured Applications 🚀</h2>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erhansennx&show_icons=true&locale=en&layout=compact" alt="erhansennx" /></p> 
-<br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erhansennx&show_icons=true&locale=en" alt="erhansennx" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erhansennx&" alt="erhansennx" /></p>
+<div align=center>
+  <a href="https://github.com/erhansennx/Fitness-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/674f8127-0000-4746-90c9-af358fdd0d2a"></a>
+  <a href="https://github.com/erhansennx/Pomodoro-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/80f47411-e5cd-4c48-a28b-b6205ea34734"></a>
+  <a href="https://github.com/erhansennx/GithubProfileViewer-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/d8300e99-6592-4242-82c2-5bfc0ac0f029"></a>
+  <a href="https://github.com/erhansennx/News-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/ba5ac1b9-9af9-4af6-8949-3cbcecdaabab"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.app.anonymouschat&pli=1"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/5df2541a-cefc-4614-a0db-e1427e961ebf"></a>
+  <a href="https://github.com/erhansennx/MovieApp"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/94f732b1-b4dd-4f14-bac7-4cb40f727f52"></a>
+</div>
+
+<h3 align="center">
+  <a href="https://github.com/erhansennx/Fitness-App">Fitness-App</a> |
+  <a href="https://github.com/erhansennx/Pomodoro-App">Pomodoro-App</a> |
+  <a href="https://github.com/erhansennx/GithubProfileViewer-App">GithubProfileViewer-App </a> |
+  <a href="https://github.com/erhansennx/News-App">News-App</a> |
+  <a href="https://play.google.com/store/apps/details?id=com.app.anonymouschat&pli=1">Privado-App</a> |
+  <a href="https://github.com/erhansennx/MovieApp">Movie-App </a>
+</h3>
+
+<br><br>
+
+<div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Main Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/kotlin.png" width=50></a>
+        <img src="https://github.com/erhansennx/erhansennx/assets/77855407/2c458780-6e31-4104-9304-c4adf264b61f" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/adobe-xd.png" width=50></a>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <tr>
+        <td colspan="2">
+            <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+            <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+            <a href="https://github-readme-stats.vercel.app/api?username=erhansennx&count_private=true&hide_border=true&show_icons=true&theme=radical">
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erhansennx&count_private=true&hide_border=true&show_icons=true&theme=radical">
+            </a>
+        </td>
+        <td colspan="2" rowspan="2">
+            <a href="https://github-readme-streak-stats.herokuapp.com/?user=erhansennx&hide_border=true&theme=radical">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=erhansennx&hide_border=true&theme=radical">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
