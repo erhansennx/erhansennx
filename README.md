@@ -35,7 +35,7 @@
   <a href="https://github.com/erhansennx/MovieApp">Movie-App </a>
 </h3>
 
-<br><br>
+<br>
 
 <div align=center>
 <table>
