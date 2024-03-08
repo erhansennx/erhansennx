@@ -21,7 +21,7 @@
   <a href="https://github.com/erhansennx/Fitness-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/674f8127-0000-4746-90c9-af358fdd0d2a"></a>
   <a href="https://github.com/erhansennx/Pomodoro-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/80f47411-e5cd-4c48-a28b-b6205ea34734"></a>
   <a href="https://github.com/erhansennx/GithubProfileViewer-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/d8300e99-6592-4242-82c2-5bfc0ac0f029"></a>
-  <a href="https://github.com/erhansennx/News-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/ba5ac1b9-9af9-4af6-8949-3cbcecdaabab"></a>
+  <a href="https://github.com/erhansennx/News-App"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/ba5ac1b9-9af9-4af6-8949-3cbcecdaabab"></a> <br>
   <a href="https://play.google.com/store/apps/details?id=com.app.anonymouschat&pli=1"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/5df2541a-cefc-4614-a0db-e1427e961ebf"></a>
   <a href="https://github.com/erhansennx/MovieApp"><img width=150 src="https://github.com/erhansennx/erhansennx/assets/77855407/94f732b1-b4dd-4f14-bac7-4cb40f727f52"></a>
 </div>
@@ -30,7 +30,7 @@
   <a href="https://github.com/erhansennx/Fitness-App">Fitness-App</a> |
   <a href="https://github.com/erhansennx/Pomodoro-App">Pomodoro-App</a> |
   <a href="https://github.com/erhansennx/GithubProfileViewer-App">GithubProfileViewer-App </a> |
-  <a href="https://github.com/erhansennx/News-App">News-App</a> |
+  <a href="https://github.com/erhansennx/News-App">News-App</a> <br>
   <a href="https://play.google.com/store/apps/details?id=com.app.anonymouschat&pli=1">Privado-App</a> |
   <a href="https://github.com/erhansennx/MovieApp">Movie-App </a>
 </h3>
