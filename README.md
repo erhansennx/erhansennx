@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhansennx&label=Profile%20views&color=0e75b6&style=flat" alt="erhansennx" /> </p>
 
-- 🌱 I’m currently learning **Kotlin for Android Development.**
+- 🌱 I’m currently learning **Jetpack-Compose**
 
-- 💬 Ask me about **Android, Kotlin, Java.**
+- 💬 Ask me about **Android, Kotlin, Jetpack-Compose, Java.**
 
 - 📫 How to reach me **contacterhansen@gmail.com**
 
